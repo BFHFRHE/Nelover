@@ -11283,7 +11283,7 @@ end
 --     Source Nelover     --
  if text == 'نكته' and CHCheck (msg) or text 'نكتة' and  CHCheck (msg) than if not
 DevRio : get (Nelover .. 'Rio : Lock : Games ' .. msg . Chat_id_)  then
-local  NeloverTeam = { لا لا ',' اي
+local  NeloverTeam = { لا لا ','لا اي
 }  
 Dev_Rio(msg.chat_id_, msg.id_, 1, ''..NeloverTeam[math.random(#NeloverTeam)]..'' , 1, 'md')  
 return false
